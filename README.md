@@ -2,6 +2,10 @@
 
 This project implements a multi-agent AI system designed to accept input documents in PDF, JSON, or Email (text/EML) format. It classifies the document's format and its primary intent, then routes it to the appropriate specialized agent for further processing. The system maintains a shared context (via a logging mechanism) to enable traceability and chaining of operations.
 
+
+https://github.com/user-attachments/assets/60b73179-63c6-45e6-a0f3-6f06964c26ed
+
+
 ## System Overview
 
 The system is orchestrated via a central **Classifier Agent** and comprises the following key components:
