@@ -1,0 +1,67 @@
+MIME-Version: 1.0
+Date: Mon, 29 Jul 2024 10:30:00 -0700
+Message-ID: <complaint-12345-abcdef@customerexample.com>
+Subject: Urgent: Complaint Regarding Order #ORD789012 - Damaged Item
+From: Unhappy Customer <customer.jane.doe@emailprovider.net>
+To: Support Team <support@yourcompanydomain.com>
+Content-Type: multipart/alternative; boundary="boundary_text_example_12345"
+
+--boundary_text_example_12345
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Dear Support Team,
+
+I am writing to express my extreme dissatisfaction with a recent order, #ORD789012, which I received today, July 29th, 2024.
+
+One of the items, the "Premium Blue Widget" (SKU: PBW-003), arrived severely damaged. The packaging was intact, but the widget itself is cracked and unusable. This is very disappointing as I needed this item urgently for a project.
+
+I have attached photos of the damaged item for your review.
+
+I request an immediate resolution to this issue. I would prefer a replacement item to be shipped via expedited delivery at your cost. If a replacement is not possible, I expect a full refund for the damaged item.
+
+Please let me know what steps I need to take next. I expect a prompt response within 24 hours.
+
+Order Number: ORD789012
+Item: Premium Blue Widget (SKU: PBW-003)
+Date of Delivery: July 29, 2024
+
+Sincerely,
+
+Jane Doe
+(555) 867-5309
+
+--boundary_text_example_12345
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>Order Complaint</title>
+</head>
+<body>
+<p>Dear Support Team,</p>
+
+<p>I am writing to express my <strong>extreme dissatisfaction</strong> with a recent order, #ORD789012, which I received today, July 29th, 2024.</p>
+
+<p>One of the items, the "<em>Premium Blue Widget</em>" (SKU: PBW-003), arrived severely damaged. The packaging was intact, but the widget itself is cracked and unusable. This is very disappointing as I needed this item urgently for a project.</p>
+
+<p>I have attached photos of the damaged item for your review (though attachments are not part of this EML text).</p>
+
+<p>I request an immediate resolution to this issue. I would prefer a <strong>replacement item</strong> to be shipped via expedited delivery at your cost. If a replacement is not possible, I expect a <strong>full refund</strong> for the damaged item.</p>
+
+<p>Please let me know what steps I need to take next. I expect a prompt response within 24 hours.</p>
+
+<p><strong>Order Number:</strong> ORD789012<br>
+<strong>Item:</strong> Premium Blue Widget (SKU: PBW-003)<br>
+<strong>Date of Delivery:</strong> July 29, 2024</p>
+
+<p>Sincerely,</p>
+<p>Jane Doe<br>
+(555) 867-5309</p>
+</body>
+</html>
+
+--boundary_text_example_12345--

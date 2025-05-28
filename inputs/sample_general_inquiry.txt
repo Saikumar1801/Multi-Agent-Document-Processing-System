@@ -1,0 +1,24 @@
+From: prospective_client@emailprovider.com
+To: sales@yourcompanydomain.com
+Subject: Inquiry about Enterprise Solutions
+
+Hi Sales Team,
+
+My name is Pat Rivera, and I'm the CTO at Innovatech Solutions Ltd. We are currently evaluating new CRM and project management tools for our organization of about 250 employees.
+
+I came across your platform and was impressed by the features listed for your Enterprise tier. Could you please provide more detailed information on the following:
+1.  Pricing structure for 250+ users, including any volume discounts.
+2.  Integration capabilities with existing systems (specifically Salesforce and Jira).
+3.  Data security and compliance certifications (e.g., ISO 27001, SOC 2).
+4.  Availability of dedicated support and onboarding services.
+
+We are looking to make a decision within the next quarter. Would it be possible to schedule a demo or a call with one of your enterprise specialists next week?
+
+Thank you for your time and assistance.
+
+Best regards,
+
+Pat Rivera
+CTO, Innovatech Solutions Ltd.
+Phone: (555) 123-9876
+Website: www.innovatech-solutions-example.com 

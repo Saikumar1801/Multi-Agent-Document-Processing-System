@@ -1,0 +1,17 @@
+{
+  "rfq_id": "RFQ12345",
+  "customer_name": "Acme Corp",
+  "items": [
+    {"product_id": "PROD001", "quantity": 100, "description": "Heavy Duty Widget"},
+    {"product_id": "PROD002", "quantity": 50, "description": "Standard Sprocket"}
+  ],
+  "due_date": "2024-12-31",
+  "contact_email": "purchasing@acme.com",
+  "shipping_address": {
+    "street": "123 Main St",
+    "city": "Anytown",
+    "state": "CA",
+    "zip": "90210"
+  },
+  "notes": "Please provide your best quote for the items listed above, including shipping costs to the specified address. We require delivery by the due date."
+}
